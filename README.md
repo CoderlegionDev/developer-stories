@@ -14,6 +14,14 @@ Adeoye shares his journey from Data Science and Machine Learning into DevOps and
 
 ---
 
+### [Fighting Build-System Complexity: Alex Voste on Systems Programming, Performance and ForgeZero](stories/alex-voste.md)
+
+Alex Voste shares his journey into systems programming, performance engineering, developer tooling, and the creation of ForgeZero, a build toolchain for C and Assembly developers.
+
+**Topics:** Systems Programming · C · Go · Assembly · Linux · Performance · Developer Tooling · Build Systems
+
+---
+
 ## About CoderLegion
 
 CoderLegion is a community built for developers to share knowledge, connect with other developers, discover developer stories, join discussions, explore jobs, and build their developer presence.
