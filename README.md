@@ -22,6 +22,13 @@ Alex Voste shares his journey into systems programming, performance engineering,
 
 ---
 
+### From QA to DevOps: Jan Duris's Journey Through Automation, DevOps and Personal Projects
+
+Jan Duris shares his journey through QA, test automation, DevOps, and building personal projects while continuing to grow as a developer.
+
+Topics: QA · Test Automation · DevOps · Automation · Personal Projects
+
+
 ## About CoderLegion
 
 CoderLegion is a community built for developers to share knowledge, connect with other developers, discover developer stories, join discussions, explore jobs, and build their developer presence.
